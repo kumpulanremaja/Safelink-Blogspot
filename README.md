@@ -1,0 +1,2 @@
+# Safelinku
+Zfile.zpace
